@@ -31,3 +31,4 @@ The analytics team reported discrepancies in monthly revenue and customer report
 Data source: [https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning?resource=download]
 
 The dataset intentionally includes data quality issues to simulate real operational data challenges.
+![The dataset preview](images/preview.jpeg)
